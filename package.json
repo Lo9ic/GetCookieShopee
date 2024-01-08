@@ -1,0 +1,13 @@
+{
+  "name": "shopee-qrcode-login",
+  "version": "1.0.0",
+  "description": "A Node.js script for Shopee QR code login",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "axios": "^0.24.0"
+  }
+}
